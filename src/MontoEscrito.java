@@ -1,4 +1,4 @@
-
+import java.util.Scanner; //Se agrega el paquete java.until para usar la clase Scanner que permite leer valores de entrada
 public class MontoEscrito {
 
 	public MontoEscrito() {
