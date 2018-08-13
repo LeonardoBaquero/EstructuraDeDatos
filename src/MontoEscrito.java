@@ -1,7 +1,5 @@
 import java.util.Scanner; //Se agrega el paquete java.until para usar la clase Scanner que permite leer valores de entrada
 
-import java.util.Scanner;
-
 public class MontoEscrito {
 	
 	public static void main(String[] args) {
