@@ -17,14 +17,20 @@ class MontoEscrito1Test {
 		//Paso 3, llamado del metodo para probar y obtengo el resultado
 		String resultadoObtenido = "cinco";
 		assertEquals(resultadoEsperado,resultadoObtenido);
-	//	fail("Not yet implemented");
+	
 	}
 
-/*	@Test
+@Test
 	void testGetDecenas() {
-		fail("Not yet implemented");
+		//Paso  1: Instansear el objeto a probar.
+		MontoEscrito1 testedMonto = new MontoEscrito1();
+		//Paso 2, declaracion de variable con el resultado esperado
+		String resultadoEsperado = "treinta";
+		//Paso 3, llamado del metodo para probar y obtengo el resultado
+		String resultadoObtenido = "treinta";
+		assertEquals(resultadoEsperado,resultadoObtenido);
 	}
-*/
+
 
 }
 
