@@ -1,5 +1,6 @@
 package PaqueteDeMonto;
 
+
 import java.text.NumberFormat; // Esta clase proporciona la interfaz para formatear y analizar números.
 import java.util.Scanner; // Clase para lectura de datos 
 
@@ -44,6 +45,7 @@ public class MontoEscrito1 {
 
 	}
 
+	
 	public static String[] getUnidades() {
 		return unidades;
 	}
@@ -53,3 +55,4 @@ public class MontoEscrito1 {
 	}
 
 }
+	
